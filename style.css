@@ -1,0 +1,76 @@
+.navbar{
+    background-color: chartreuse !important;
+}
+.nav-link{
+    color: darkblue !important;
+    font-weight: bold
+}
+.fa-truck{
+    font-size: 40px !important;
+    color: chartreuse !important;
+    font-weight: ;
+}
+.fa-user-circle{
+    font-size: 40px !important;
+    color: darkblue;
+}
+.d-block w-100{
+    border-image-width: 20px !important;
+}
+.fa-truck,.fa-star,.fa-star-half{
+    font-size: 50px !important;
+    margin-right: 10px;
+    color: darkblue !important;
+}
+h3{
+    color: darkblue;
+}
+.card1,.card2,.card3{
+    display: flex;
+    width: 380;
+    height: 100px;
+    background-color: rgba(13, 228, 48, 0);
+    box-shadow: 2px 4px 5px grey;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+.mainCard{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.NewEdition{
+    margin-top: 50px;
+}
+.card{
+    width: 200px;
+    height: auto;
+    margin-bottom: 5px;
+}
+.card-text{
+    font-weight: bold;
+}
+.btn-primary{
+    width: 100%;
+    background-color: darkblue;
+}
+.heading{
+    text-align: center;
+    color: darkblue;
+}
+.footer{
+    width: 100%;
+    background-color: darkblue;
+    height: 80px;
+}
+.footer > div{
+    text-align: center !important;
+}
+h4{
+    background-color: chartreuse;
+}
+h2{
+    background-color: chartreuse;
+}
